@@ -1,0 +1,9 @@
+#FILES
+note
+frontend/mini-project- backup
+backend/.env
+
+# dependencies
+backend/node_modules
+/.pnp
+.pnp.js
