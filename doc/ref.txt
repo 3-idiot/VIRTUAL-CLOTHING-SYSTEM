@@ -1,0 +1,2 @@
+  This document is to be read by developers team , Marketing department users, Product managers, Data analyst and tester .They may review the document to learn about the project and to understand the requirements. The document reader must have basic knowledge about machine learning.  
+Jason Mayes. "BodyPix:", " Real-time Person Segmentation in the Browser with TensorFlow.js".2019
