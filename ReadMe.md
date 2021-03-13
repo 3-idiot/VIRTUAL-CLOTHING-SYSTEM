@@ -1,2 +1,2 @@
 This is the final year project 
-  Project : VIRTUAL CLOTHING SYSTEM
+  Project title : VIRTUAL CLOTHING SYSTEM ,virtual fitting and styling solution
