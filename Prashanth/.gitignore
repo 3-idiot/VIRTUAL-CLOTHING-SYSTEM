@@ -1,6 +1,9 @@
 #FILES
 note
 frontend/mini-project- backup
+frontend/yarn.lock
+frontend/package-lock.json
+
 backend/.env
 
 # dependencies
